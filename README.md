@@ -1,6 +1,6 @@
 # Linkedin-Clone_Redux
 This app using React JS (Redux) &amp; Firebase V9
-# Live Preview: https://linkedin-clone-657eb.web.app/
+# Live Preview: https://linkedin-clone-5d195.web.app/
 Coded by - [kareem shimes]
 
 ![](/linkedIn.PNG)
