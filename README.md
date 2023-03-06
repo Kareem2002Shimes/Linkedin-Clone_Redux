@@ -3,7 +3,7 @@ This app using React JS (Redux) &amp; Firebase V9
 # Live Preview: https://linkedin-clone-657eb.web.app/
 Coded by - [kareem shimes]
 
-![](/Capture.jpg)
+![](/linkedIn.PNG)
 
 # Getting Started with Vite
 ## Available Scripts
